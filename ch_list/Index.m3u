@@ -1,5 +1,5 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1+1" tvg-logo="" group-title="General",1+1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1+1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/1_plus_1_logo.svg/1280px-1_plus_1_logo.svg.png" group-title="General",1+1
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ/live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atv HU" tvg-logo="https://24.p3k.hu/app/uploads/2018/03/atv_2018_wide.png" group-title="General",Atv HU
 https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
