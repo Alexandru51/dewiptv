@@ -293,7 +293,7 @@ https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w423951181.m3
 http://s02.diazol.hu:10192/stream.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Urban" tvg-logo="" group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Traditional TV" tvg-logo="" group-title="Music",Traditional TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Traditional TV" tvg-logo="https://traditionaltv.net/wp-content/uploads/2020/04/traditionaltv.png" group-title="Music",Traditional TV
 https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CvEEYkhNpcquHV-ifBL_RpJi8sTaOYlC0l5d9A0VN_BqRMst8zxyBs8GaxnkVsYB_lc8ARqn31S3GTiPT85r5S0jqmFpCfVbs6qFdwo5vH2GUoqXc6DJk0nO78cbrlTOoqIFOVmqF9aRzjPSI58wXcRsy7rTXWdqLXmmBbHZx_AgLmtq6lviXAc3lz_SZhKvzpV7FY-z_1J2GqqAOennWYEw3jtdyizDFiEsEJG1T2I8GwkzfHYz6eWcqdfiNzayvO0WmvF7Cvd9QSXpFAu9EFhB4vSdA-f0maHgOETpcAlNBXg-UaLfYqsK0d6wdBp3zJ1390WA1HrwT4y6a83wjALPi3-qNozZP-qA9y4_p0j1nL1NpN9R_VjtdrwJfWoHV9lYsQG-85hJB041I6NdrgPiybbtotBAjPnKL0VCExgT3DTG9AsrI8v_N_YJGTaNTZo2WSvRpvZYSlNfGNw0XxMAMgtzUCBAry_KdzmRpbEEmMw_aNHYBfr7_j1XYKXrt9joLyDphXXAdZEIXLe_IFKCu4JZAKTJE7tnSOvCquPVDk43bwikGl_VjNnNPfMj5ai8h_ilRF4uJSGqHLpNcm9FaLUetz6xf45eoNHkdB0-CZxkwT7Y0rtKDt5nVrEkmzwFWaBABb0liClBUUSXxRRC7mMAt5W8EEwBS7_9MxGweiw7e4o9iwPqtbfymKJiuKispPlBkcvYnqxkZVRZfSSvSv12qh5F6yIW7Bs0tjfdRZ3NflBzzq-qu-ghpuFPXQdHdbKyNpRLYPVvJZdbtC3lo6QrDHJYoyaSYtCSx-FB_w4oNDAa7483wkFayhVsUkRojRoM68ZcHgDNUFohQbRrIAEqCXVzLWVhc3QtMjCeAw.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV" tvg-logo="https://wp26-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10147_c_aed9d99df5827b99be57d94840d28020.png" group-title="Music",UTV
 http://edge126.rcs-rds.ro/utvedge/utvhq.stream/chunklist_w419025515.m3u8
