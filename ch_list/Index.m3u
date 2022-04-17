@@ -299,6 +299,8 @@ http://www.1music.hu/1music.m3u8
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w423951181.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music+" tvg-logo="" group-title="Music",Music+
 http://s02.diazol.hu:10192/stream.m3u8 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muzsika TV" tvg-logo="" group-title="Music",Muzsika TV
+https://stream.y5.hu/stream/stream_muzsikatv/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Urban" tvg-logo="" group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV" tvg-logo="https://wp26-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10147_c_aed9d99df5827b99be57d94840d28020.png" group-title="Music",UTV
