@@ -19,6 +19,8 @@ https://2122248074.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M1" tvg-logo="" group-title="General",M1
 https://c401-node62-cdn.connectmedia.hu/1100/1993cdbe69061fc95631fdb046f4580b/625bc136/03.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moldova TV" tvg-logo="" group-title="General",Moldova TV
+http://89.38.8.130:39435/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prima TV" tvg-logo="https://stvron.com/canale/512/prima-tv.png" group-title="General",Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc= 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Publika TV" tvg-logo="https://stvron.com/canale/512/publika-tv.png" group-title="General",Publika TV
@@ -320,9 +322,7 @@ https://stream.iptvservice.eu/hls/balatontv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bonum TV" tvg-logo="" group-title="Undefined",Bonum TV
 https://stream.y5.hu/stream/stream_bonum/stream.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Budakalász" tvg-logo="" group-title="Undefined",Budakalász
-https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EST TV" tvg-logo="" group-title="Undefined",EST TV
-http://89.38.8.130:39435/ 
+https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8  
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Halom TV" tvg-logo="" group-title="Undefined",Halom TV
 http://stream.battanet.hu:8080/hls/livestream1/1_2/index.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Komlos TV" tvg-logo="" group-title="Undefined",Komlos TV
