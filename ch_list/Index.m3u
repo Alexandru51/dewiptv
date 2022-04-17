@@ -23,8 +23,6 @@ https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIz
 https://livebeta.publika.md/LIVE/P/1500.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1200px-Rai_3_-_Logo_2016.svg.png" group-title="General",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id" tvg-name="RTL" tvg-logo="" group-title="General",RTL
-http://45.58.139.242:9630/grat/rtlhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIyIDEwOjUwOjMxIEFNJmhhc2hfdmFsdWU9RkdrUjVPSFYxWWVUanhlc2FFdjByZz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL 2 HU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Logo_of_RTL_II_%28Hungary%29.png" group-title="General",RTL 2 HU
 https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtl gold" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/6/69/RTL_Gold_%282017-.n.v.%29.png/revision/latest?cb=20210114202805" group-title="General",Rtl gold
@@ -243,6 +241,8 @@ https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nasul TV" tvg-logo="" group-title="News",Nasul TV
 https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News Romania" tvg-logo="" group-title="News",News Romania
+https://live.newsromania.live:8443/live/newsromania/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pro TV News" tvg-logo="" group-title="News",Pro TV News
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_fullhd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Profit.ro" tvg-logo="" group-title="News",Profit.ro
