@@ -13,6 +13,8 @@ https://stream.y5.hu/stream/stream_cool/hls1/stream.m3u8
 https://streaming.mytvback.com/stream/TL_mbjnoIBW6cHYFXqMsUA/1650208273/channel003/stream-br3472000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gem TV Asia" tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/1/13/Gem_TV_logo.png/revision/latest?cb=20210224034451" group-title="General",Gem TV Asia
 http://210.210.155.35/uq2663/h/h19/index.m3u8 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hir TV" tvg-logo="" group-title="General",Hir TV
+https://player.mediaklikk.gq/hirtv/00gMyEzM5cTM.m3u8
 #EXTINF:-1 tvg-id="KanalD(src01).ro" tvg-name="Kanal D RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Kanal_D_%281994-.n.v.%29.png" group-title="General",Kanal D RO
 https://stream1.kanald.ro/iphone/live.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D Turkey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Kanal_D_%281994-.n.v.%29.png" group-title="General",Kanal D Turkey
