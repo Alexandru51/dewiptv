@@ -9,6 +9,8 @@ http://77.89.199.174:8000/play/1024/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cool TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Cool_tv_hu.svg/revision/latest/scale-to-width-down/230?cb=20200428125" group-title="General",Cool TV
 https://stream.y5.hu/stream/stream_cool/hls1/stream.m3u8 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duna TV" tvg-logo="" group-title="General",Duna TV
+https://streaming.mytvback.com/stream/TL_mbjnoIBW6cHYFXqMsUA/1650208273/channel003/stream-br3472000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gem TV Asia" tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/1/13/Gem_TV_logo.png/revision/latest?cb=20210224034451" group-title="General",Gem TV Asia
 http://210.210.155.35/uq2663/h/h19/index.m3u8 
 #EXTINF:-1 tvg-id="KanalD(src01).ro" tvg-name="Kanal D RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Kanal_D_%281994-.n.v.%29.png" group-title="General",Kanal D RO
