@@ -11,6 +11,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 https://stream.y5.hu/stream/stream_cool/hls1/stream.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duna TV" tvg-logo="" group-title="General",Duna TV
 https://streaming.mytvback.com/stream/TL_mbjnoIBW6cHYFXqMsUA/1650208273/channel003/stream-br3472000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fem3" tvg-logo="https://onlinestream.live/logos/6455.png" group-title="General",Fem3
+https://streaming.mytvback.com/stream/OtTWmnqBv6sQaYI0byWyqg/1650219092/channel016/stream-br1872000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fix TV" tvg-logo"https://onlinestream.live/logos/1833.png" group-title="General",Fix TV
 https://fixhd.tv:8082/fix/1080i/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gem TV Asia" tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/1/13/Gem_TV_logo.png/revision/latest?cb=20210224034451" group-title="General",Gem TV Asia
