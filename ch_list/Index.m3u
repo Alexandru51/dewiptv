@@ -309,6 +309,8 @@ https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w423951181.m3
 http://s02.diazol.hu:10192/stream.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muzsika TV" tvg-logo="" group-title="Music",Muzsika TV
 https://stream.y5.hu/stream/stream_muzsikatv/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tezaur TV" tvg-logo="http://www.tezaurtv.ro/wp-content/uploads/2018/09/Tezaur-TV-online.jpg" group-title="Music",Tezaur TV
+https://netstreaming.eu:8080/hls/tezaurtv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Urban" tvg-logo="" group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV" tvg-logo="https://wp26-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10147_c_aed9d99df5827b99be57d94840d28020.png" group-title="Music",UTV
