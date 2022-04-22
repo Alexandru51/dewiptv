@@ -111,6 +111,8 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RedBull TV" tvg-logo="" group-title="Documentary",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Realitatea Star" tvg-logo="" group-title="Documentary",Realitatea Star
+https://streamx.realitatea.net/realitatea/star_md/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Mix" tvg-logo="" group-title="Documentary",Travel Mix
 http://89.38.8.131:39520/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel XP" tvg-logo="" group-title="Documentary",Travel XP
@@ -177,6 +179,8 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendti
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mat TV" tvg-logo="" group-title="Sports",Mat TV
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Realitatea Sport" tvg-logo="" group-title="Sports",Realitatea Sport
+https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Sport Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" group-title="Sports",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVRI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/TVRISportHD.png" group-title="Sports",TVRI Sports
