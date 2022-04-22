@@ -260,7 +260,7 @@ https://stream1.profit.ro:1945/profit/livestream/chunklist_w243257193.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rai News 24" tvg-logo="" group-title="News",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus(src01).ro " tvg-name="Realitatea Plus" tvg-logo="" group-title="News",Realitatea Plus
-https://livestream.realitatea.net/livestream/liverealitatea.stream/chunklist.m3u8 
+https://edge.realitatea.net/livestream/new/chunklist.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky News" tvg-logo="" group-title="News",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true 
 #EXTINF:-1 tvg-ud="(no tvg-id)" tvg-name="Украïна 24" tvg-logo="" group-title="News",Украïна 24
