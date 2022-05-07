@@ -1,0 +1,3 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVR Iași" tvg-logo="" group-title="Local",TVR Iași
+http://82.208.151.107:8888/1.m3u8
