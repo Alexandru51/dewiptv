@@ -2,9 +2,7 @@
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1+1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/1_plus_1_logo.svg/1280px-1_plus_1_logo.svg.png" group-title="General",1+1
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ/live
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atv HU" tvg-logo="https://24.p3k.hu/app/uploads/2018/03/atv_2018_wide.png" group-title="General",Atv HU
-https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Balti TV" tvg-logo="https://www.btv.md/wp-content/uploads/2019/01/BTV.png" group-title="General",Balti TV
-http://77.89.199.174:8000/play/1024/index.m3u8 
+https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV-1" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0f/CCTV-1.png/revision/latest?cb=20200821151602" group-title="General",CCTV-1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cool TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Cool_tv_hu.svg/revision/latest/scale-to-width-down/230?cb=20200428125" group-title="General",Cool TV
@@ -21,6 +19,8 @@ https://2122248074.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moldova 1" tvg-logo="" group-title="General",Moldova 1
 https://stream.trm.md/static/streaming-playlists/hls/dd7acba9-2151-4415-8751-5d08a342340c/0.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moldova 2" tvg-logo="" group-title="General",Moldova 2
+https://peer.trm.md/static/streaming-playlists/hls/9914e24b-b4bc-47f2-8f9a-1ee34ca8ab71/0.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moldova TV" tvg-logo="https://api-cms.vodafone.ro/contentAsset/resize-image/65665e28-d9a2-4bcd-8517-ad544ff7ba33/fileAsset/webp_q/95.png" group-title="General",Moldova TV
 http://89.38.8.130:39435/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prima TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Prima_TV_%25_282021%25_29.png" group-title="General",Prima TV
