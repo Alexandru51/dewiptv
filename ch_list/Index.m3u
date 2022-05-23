@@ -169,14 +169,6 @@ https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Insight TV" tvg-logo="" group-title="Sports",Insight TV
 https://insighttv-samsung-uk.amagi.tv/playlist.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Look Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LookSport_%282018%29.svg/1200px-Logo_LookSport_%282018%29.svg.png" group-title="Sports",Look Sport
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Look Sport 2" tvg-logo="" group-title="Sports",Look Sport 2
-https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Look Sport 3" tvg-logo="" group-title="Sports",Look Sport 3
-https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Look Sport+" tvg-logo="https://www.primaplay.ro/assets/imgs/channel/looksportplus.png" group-title="Sports",Look Sport+
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mat TV" tvg-logo="" group-title="Sports",Mat TV
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Realitatea Sport" tvg-logo="https://www.realitateasportiva.net/_next/image?url=%2Fimages%2FLogo_RealitateaSportiva_ExtremLandscape_574x135px.png&w=1280&q=75" group-title="Sports",Realitatea Sport
@@ -264,7 +256,7 @@ https://stream1.profit.ro:1945/profit/livestream/chunklist_w243257193.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rai News 24" tvg-logo="" group-title="News",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus(src01).ro " tvg-name="Realitatea Plus" tvg-logo="" group-title="News",Realitatea Plus
-https://edge.realitatea.net/livestream/new/chunklist.m3u8 
+https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky News" tvg-logo="" group-title="News",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true 
 #EXTINF:-1 tvg-ud="(no tvg-id)" tvg-name="Украïна 24" tvg-logo="" group-title="News",Украïна 24
