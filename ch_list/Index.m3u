@@ -19,6 +19,8 @@ https://stream1.kanald.ro/iphone/live.m3u8
 https://2122248074.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La 1" tvg-logo="https://i.imgur.com/0mGTdcg.png" group-title="General",La 1
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moldova 1" tvg-logo="" group-title="General",Moldova 1
+https://stream.trm.md/static/streaming-playlists/hls/dd7acba9-2151-4415-8751-5d08a342340c/0.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moldova TV" tvg-logo="https://api-cms.vodafone.ro/contentAsset/resize-image/65665e28-d9a2-4bcd-8517-ad544ff7ba33/fileAsset/webp_q/95.png" group-title="General",Moldova TV
 http://89.38.8.130:39435/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prima TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Prima_TV_%25_282021%25_29.png" group-title="General",Prima TV
@@ -85,8 +87,6 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Documentary",Fashion TV Europe
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Mix 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Travel_Mix_4K_%282020%29.png/revision/latest/scale-to-width-down/250?cb=20210418050436" group-title="Documentary",Travel Mix 4K
-http://103.145.13.15:25461/live/promo/promo/5.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Documentary",Fashion TV Italy
 https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV Mumbai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Documentary",Fashion TV Mumbai
