@@ -41,6 +41,8 @@ https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 2" tvg-logo="" group-title="General",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT Haber" tvg-logo="" group-title="General",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT Turk" tvg-logo="" group-title="General",TRT Turk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVR 1" tvg-logo="https://wp19-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10001_c_0796235930ec9dccdb96fc1dbd0e82ab.png" group-title="General",TVR 1
