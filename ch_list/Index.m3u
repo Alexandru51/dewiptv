@@ -213,6 +213,8 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN US" tvg-logo="" group-title="News",CNN US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi24" tvg-logo="" group-title="News",Digi24
+https://edge84.rcs-rds.ro/V4-2836626-1ccc46673fc8f5ec1d246b68fce65127-1438260478-0-1654338040-482-digi24/digi24/digi24hd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW Arabic" tvg-logo="" group-title="News",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW English" tvg-logo="" group-title="News",DW English
@@ -293,12 +295,12 @@ http://hitmusic.hu/hitmusic.m3u8
 http://fms-https1.mediadirect.ro/live3/_definst_/kiss/chunklist_w633790898.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magic TV RO" tvg-logo="" group-title="Music",Magic TV RO
 https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mooz RO" tvg-logo="" group-title="Music",Mooz RO
+https://db2-archive.teleon.tv/m3u/m3u.php?ch=moozro
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music 24" tvg-logo="" group-title="Music",Music 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music Channel HU" tvg-logo="" group-title="Music",Music Channel HU
-http://www.1music.hu/1music.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music Channel RO" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/e/e4/1music.jpg" group-title="Music",Music Channel RO
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w423951181.m3u8 
+http://www.1music.hu/1music.m3u8  
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music+" tvg-logo="" group-title="Music",Music+
 http://s02.diazol.hu:10192/stream.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muzsika TV" tvg-logo="" group-title="Music",Muzsika TV
