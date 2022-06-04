@@ -83,6 +83,8 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner TV Asia (Thailand) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Movies",Warner TV Asia (Thailand) 
 http://203.154.243.89:11205/  
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Earth (Vietnam)" tvg-logo="" group-title="Documentary",BBC Earth (Vietnam)
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCTV-9" tvg-logo="" group-title="Documentary",CCTV-9
 http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary",CGTN Documentary
