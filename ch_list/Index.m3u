@@ -41,8 +41,6 @@ https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 2" tvg-logo="" group-title="General",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT Haber" tvg-logo="" group-title="General",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT Turk" tvg-logo="" group-title="General",TRT Turk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVR 1" tvg-logo="https://wp19-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10001_c_0796235930ec9dccdb96fc1dbd0e82ab.png" group-title="General",TVR 1
@@ -269,6 +267,8 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m
 https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky News" tvg-logo="" group-title="News",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true 
+#EXTINF:-1 tvg-id="" tvg-name="TRT Haber" tvg-logo="" group-title="News",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-ud="(no tvg-id)" tvg-name="Украïна 24" tvg-logo="" group-title="News",Украïна 24
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMp5Buw-6LpbbV9r9Sl_5yg/live
 #EXTINF:-1 tvg-id="AnimaxAsia.jp" tvg-name="Animax Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Kids",Animax Asia
