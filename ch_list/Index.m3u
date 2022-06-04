@@ -299,6 +299,8 @@ http://82.76.210.127:1935/dibitv/live/playlist.m3u8
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kiss TV" tvg-logo="https://wp10-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10090_c_7a82a77ca8267b577206384c9414ab4e.png" group-title="Music",Kiss TV
 http://fms-https1.mediadirect.ro/live3/_definst_/kiss/chunklist_w633790898.m3u8 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M2" tvg-logo="" group-title="Music",M2
+http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magic TV RO" tvg-logo="" group-title="Music",Magic TV RO
 https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mooz Dance" tvg-logo="" group-title="Music",Mooz Dance
@@ -319,12 +321,12 @@ https://stream.y5.hu/stream/stream_muzsikatv/stream.m3u8
 https://netstreaming.eu:8080/hls/tezaurtv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Urban" tvg-logo="" group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT Müzik" tvg-logo="" group-title="Music",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV" tvg-logo="https://wp26-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10147_c_aed9d99df5827b99be57d94840d28020.png" group-title="Music",UTV
 http://edge126.rcs-rds.ro/utvedge/utvhq.stream/chunklist_w419025515.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1 Italy" tvg-logo="" group-title="Music",VH1 Italy
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M2" tvg-logo="" group-title="Music",M2
-http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1TV" tvg-logo="" group-title="Undefined",1TV
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ada TV (Cyprus/Turkish)" tvg-logo="" group-title="Undefined",Ada TV (Cyprus/Turkish)
