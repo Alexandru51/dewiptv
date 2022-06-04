@@ -13,8 +13,6 @@ https://fixhd.tv:8082/fix/1080i/chunks.m3u8
 http://210.210.155.35/uq2663/h/h19/index.m3u8 
 #EXTINF:-1 tvg-id="KanalD(src01).ro" tvg-name="Kanal D RO" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bb/Kanal_D_%282018-.n.v.%29.png" group-title="General",Kanal D RO
 https://stream1.kanald.ro/iphone/live.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D Turkey" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bb/Kanal_D_%282018-.n.v.%29.png" group-title="General",Kanal D Turkey
-https://2122248074.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La 1" tvg-logo="https://i.imgur.com/0mGTdcg.png" group-title="General",La 1
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moldova 1" tvg-logo="" group-title="General",Moldova 1
@@ -39,6 +37,8 @@ https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
 https://stream.y5.hu/stream/stream_rtlp/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sorozat Plus" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/sorozat_plusz_2018_wide.png" group-title="General",Sorozat Plus
 https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="" group-title="General",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVR 1" tvg-logo="https://wp19-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10001_c_0796235930ec9dccdb96fc1dbd0e82ab.png" group-title="General",TVR 1
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/chunklist_b8288000.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVR 2" tvg-logo="https://wp8-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10002_c_80ff113858e8407d4408d0b1baf4a497.png" group-title="General",TVR 2
