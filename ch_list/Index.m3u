@@ -295,6 +295,10 @@ http://hitmusic.hu/hitmusic.m3u8
 http://fms-https1.mediadirect.ro/live3/_definst_/kiss/chunklist_w633790898.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magic TV RO" tvg-logo="" group-title="Music",Magic TV RO
 https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mooz Dance" tvg-logo="" group-title="Music",Mooz Dance
+https://db2-archive.teleon.tv/m3u/m3u.php?ch=moozdance
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mooz Hits" tvg-logo="" group-title="Music",Mooz Hits
+https://db2-archive.teleon.tv/m3u/m3u.php?ch=moozhits
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mooz RO" tvg-logo="" group-title="Music",Mooz RO
 https://db2-archive.teleon.tv/m3u/m3u.php?ch=moozro
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music 24" tvg-logo="" group-title="Music",Music 24
