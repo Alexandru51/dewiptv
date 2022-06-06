@@ -223,8 +223,6 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN US" tvg-logo="" group-title="News",CNN US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi24" tvg-logo="" group-title="News",Digi24
-https://edge84.rcs-rds.ro/V4-2836626-1ccc46673fc8f5ec1d246b68fce65127-1438260478-0-1654338040-482-digi24/digi24/digi24hd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW Arabic" tvg-logo="" group-title="News",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW English" tvg-logo="" group-title="News",DW English
