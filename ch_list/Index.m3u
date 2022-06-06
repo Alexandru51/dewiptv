@@ -299,27 +299,27 @@ https://atomic.streamnet.ro/atomictv.m3u8
 rtsp://stream.teracomm.bg/balkanika 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diaspora Media" tvg-logo="https://diaspora.media/app/assets/img/logo_dt_gold.png" group-title="Music",Diaspora Media
 https://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dibi TV" tvg-logo="" group-title="Music",Dibi TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dibi TV" tvg-logo="https://scontent.fclj1-2.fna.fbcdn.net/v/t31.18172-8/10368943_316451651853669_3544972986134685380_o.png?stp=c420.0.1080.1080a_dst-png_s180x540&_nc_cat=111&ccb=1-7&_nc_sid=85a577&_nc_ohc=KBVMlt7HQkMAX82rucK&_nc_ht=scontent.fclj1-2.fna&oh=00_AT8YYS6CwucqxMt0T3cOC-OqTfsf3E9h2b1IzNtZMD5qjg&oe=62C25421" group-title="Music",Dibi TV
 http://82.76.210.127:1935/dibitv/live/playlist.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="H!T Music Channel Hungary" tvg-logo="" group-title="Music",H!T Music Channel Hungary
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="H!T Music Channel Hungary" tvg-logo="https://i.imgur.com/sqC2hqV_d.png" group-title="Music",H!T Music Channel Hungary
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kiss TV" tvg-logo="https://wp10-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10090_c_7a82a77ca8267b577206384c9414ab4e.png" group-title="Music",Kiss TV
 http://fms-https1.mediadirect.ro/live3/_definst_/kiss/chunklist_w633790898.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M2" tvg-logo="" group-title="Music",M2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/M2_logo.jpg/600px-M2_logo.jpg" group-title="Music",M2
 http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magic TV RO" tvg-logo="" group-title="Music",Magic TV RO
 https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mooz Dance" tvg-logo="" group-title="Music",Mooz Dance
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mooz Dance" tvg-logo="https://i.imgur.com/aX70RD2_d.png" group-title="Music",Mooz Dance
 https://db2-archive.teleon.tv/m3u/m3u.php?ch=moozdance
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mooz Hits" tvg-logo="" group-title="Music",Mooz Hits
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mooz Hits" tvg-logo="https://i.imgur.com/GwATd3Y_d.png" group-title="Music",Mooz Hits
 https://db2-archive.teleon.tv/m3u/m3u.php?ch=moozhits
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mooz RO" tvg-logo="" group-title="Music",Mooz RO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mooz RO" tvg-logo="https://i.imgur.com/Ft24x5T_d.png" group-title="Music",Mooz RO
 https://db2-archive.teleon.tv/m3u/m3u.php?ch=moozro
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music 24" tvg-logo="" group-title="Music",Music 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music Channel HU" tvg-logo="" group-title="Music",Music Channel HU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music Channel HU" tvg-logo="https://i.imgur.com/pzU6FrQ_d.png" group-title="Music",Music Channel HU
 http://www.1music.hu/1music.m3u8  
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music+" tvg-logo="" group-title="Music",Music+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music+" tvg-logo="https://i.imgur.com/yKJmkNk_d.png" group-title="Music",Music+
 http://s02.diazol.hu:10192/stream.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muzsika TV" tvg-logo="" group-title="Music",Muzsika TV
 https://stream.y5.hu/stream/stream_muzsikatv/stream.m3u8
