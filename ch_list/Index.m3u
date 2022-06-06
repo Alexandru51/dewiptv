@@ -21,6 +21,8 @@ https://stream.trm.md/static/streaming-playlists/hls/dd7acba9-2151-4415-8751-5d0
 https://peer.trm.md/static/streaming-playlists/hls/9914e24b-b4bc-47f2-8f9a-1ee34ca8ab71/0.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moldova TV" tvg-logo="https://api-cms.vodafone.ro/contentAsset/resize-image/65665e28-d9a2-4bcd-8517-ad544ff7ba33/fileAsset/webp_q/95.png" group-title="General",Moldova TV
 http://89.38.8.130:39435/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHK World Japan" tvg-logo="" group-title="General",NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prima TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Prima_TV_%25_282021%25_29.png" group-title="General",Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc= 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Publika TV" tvg-logo="https://i.ibb.co/Dgy4yTR/Publika-2017.png" group-title="General",Publika TV
