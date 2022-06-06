@@ -41,9 +41,9 @@ https://stream.y5.hu/stream/stream_rtlp/stream.m3u8
 https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="" group-title="General",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 2" tvg-logo="" group-title="General",TRT 2
+#EXTINF:-1 tvg-id="" tvg-name="TRT 2" tvg-logo="https://m.imgur.com/h9Q88CW" group-title="General",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT Turk" tvg-logo="" group-title="General",TRT Turk
+#EXTINF:-1 tvg-id="" tvg-name="TRT Turk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_Türk_logo.svg/512px-TRT_Türk_logo.svg.png" group-title="General",TRT Turk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVR 1" tvg-logo="https://wp19-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10001_c_0796235930ec9dccdb96fc1dbd0e82ab.png" group-title="General",TVR 1
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/chunklist_b8288000.m3u8 
@@ -127,7 +127,7 @@ https://streamx.realitatea.net/realitatea/star_md/playlist.m3u8
 http://89.38.8.131:39520/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel XP" tvg-logo="" group-title="Documentary",Travel XP
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT World" tvg-logo="" group-title="Documentary",TRT World
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="Documentary",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A7 TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngq2cBuF88r1Mv66DM4uiWAF5pCEFsaQMXR_qNrIQ=s900-c-k-c0x00ffffff-no-rj" group-title="Local",A7 TV
 http://amsix214.streamkit.tv/edge/_definst_/aseventv_1000/chunklist.m3u8?wowzasessionid=831085941&cn=aseventv 
@@ -271,7 +271,7 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m
 https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky News" tvg-logo="" group-title="News",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true 
-#EXTINF:-1 tvg-id="" tvg-name="TRT Haber" tvg-logo="" group-title="News",TRT Haber
+#EXTINF:-1 tvg-id="" tvg-name="TRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eylül_2020_Logo.svg/512px-TRT_Haber_Eylül_2020_Logo.svg.png" group-title="News",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-ud="(no tvg-id)" tvg-name="Украïна 24" tvg-logo="" group-title="News",Украïна 24
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMp5Buw-6LpbbV9r9Sl_5yg/live
@@ -291,7 +291,7 @@ https://sub2.neetball.net/live/neet.m3u8
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network Asia (Vietnam)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg" group-title="Kids", Cartoon Network Asia (Vietnam)
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT Çocuk" tvg-logo="" group-title="Kids",TRT Çocuk
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_Çocuk_logo_%282021%29.svg/512px-TRT_Çocuk_logo_%282021%29.svg.png" group-title="Kids",TRT Çocuk
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atomic TV" tvg-logo="https://www.atomictv.ro/wp-content/uploads/2021/10/Atomic_TV-1024x257.png" group-title="Music",Atomic TV
 https://atomic.streamnet.ro/atomictv.m3u8
