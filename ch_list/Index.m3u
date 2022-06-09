@@ -7,7 +7,7 @@ https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cool TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Cool_tv_hu.svg/revision/latest/scale-to-width-down/230?cb=20200428125" group-title="General",Cool TV
 https://stream.y5.hu/stream/stream_cool/hls1/stream.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fix TV" tvg-logo"https://onlinestream.live/logos/1833.png" group-title="General",Fix TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fix TV" tvg-logo"https://i.imgur.com/nHc7iG1_d.png" group-title="General",Fix TV
 https://fixhd.tv:8082/fix/1080i/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gem TV Asia" tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/1/13/Gem_TV_logo.png/revision/latest?cb=20210224034451" group-title="General",Gem TV Asia
 http://210.210.155.35/uq2663/h/h19/index.m3u8 
