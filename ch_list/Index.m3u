@@ -15,9 +15,9 @@ http://210.210.155.35/uq2663/h/h19/index.m3u8
 https://stream1.kanald.ro/iphone/live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La 1" tvg-logo="https://i.imgur.com/0mGTdcg.png" group-title="General",La 1
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moldova 1" tvg-logo="" group-title="General",Moldova 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moldova 1" tvg-logo="https://trm.md/img/pages/2018/10/18/moldova-1/moldova-1.png" group-title="General",Moldova 1
 https://stream.trm.md/static/streaming-playlists/hls/dd7acba9-2151-4415-8751-5d08a342340c/0.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moldova 2" tvg-logo="" group-title="General",Moldova 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moldova 2" tvg-logo="https://trm.md/img/pages/2018/10/18/moldova-2/moldova-2.png" group-title="General",Moldova 2
 https://peer.trm.md/static/streaming-playlists/hls/9914e24b-b4bc-47f2-8f9a-1ee34ca8ab71/0.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moldova TV" tvg-logo="https://api-cms.vodafone.ro/contentAsset/resize-image/65665e28-d9a2-4bcd-8517-ad544ff7ba33/fileAsset/webp_q/95.png" group-title="General",Moldova TV
 http://89.38.8.130:39435/
