@@ -67,9 +67,9 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Str
 https://ua-tv.cdn-02.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IHTEP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Інтер_TV_Channel_logo.svg/440px-Інтер_TV_Channel_logo.svg.png" group-title="General",IHTEP
 https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТН" tvg-logo="" group-title="General",НТН
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТН" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logotipe_ntn_tv.png" group-title="General",НТН
 https://edge2.iptv.macc.com.ua/img/ntn_3/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Украïна" tvg-logo="" group-title="General",Украïна
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Украïна" tvg-logo="https://www.aviwest.com/wp-content/uploads/2018/09/AVIWEST-PR-Ukraina-500x300.png" group-title="General",Украïна
 https://kv-k21-mc02.ollcdn.net/trku-live/20/90b3b81c20357ab971531d6eb1d5b5fc/629c1c30/ukrainahd/ukrainahd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN Asia (Indonesia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Asia (Indonesia)
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8 
