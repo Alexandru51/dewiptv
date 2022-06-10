@@ -31,6 +31,8 @@ http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc= 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Publika TV" tvg-logo="https://i.ibb.co/Dgy4yTR/Publika-2017.png" group-title="General",Publika TV
 https://livebeta.publika.md/LIVE/P/1500.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rada TV" tvg-logo="" group-title="General",Rada TV
+https://rada-rtmp.adamant.net/hls/rada.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1200px-Rai_3_-_Logo_2016.svg.png" group-title="General",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL 2 HU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Logo_of_RTL_II_%28Hungary%29.png" group-title="General",RTL 2 HU
