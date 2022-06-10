@@ -273,8 +273,10 @@ https://stream1.profit.ro:1945/profit/livestream/chunklist_w243257193.m3u8
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus(src01).ro " tvg-name="Realitatea Plus" tvg-logo="" group-title="News",Realitatea Plus
 https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8  
-#EXTINF:-1 tvg-id="" tvg-name="TRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eylül_2020_Logo.svg/512px-TRT_Haber_Eylül_2020_Logo.svg.png" group-title="News",TRT Haber
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eylül_2020_Logo.svg/512px-TRT_Haber_Eylül_2020_Logo.svg.png" group-title="News",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVP Info" tvg-logo="" group-title="News",TVP Info
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 #EXTINF:-1 tvg-ud="(no tvg-id)" tvg-name="Украïна 24" tvg-logo="" group-title="News",Украïна 24
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMp5Buw-6LpbbV9r9Sl_5yg/live
 #EXTINF:-1 tvg-id="AnimaxAsia.jp" tvg-name="Animax Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Kids",Animax Asia
