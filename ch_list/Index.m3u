@@ -158,7 +158,7 @@ https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/chunklist_b4096000.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVR Craiova" tvg-logo="https://stvron.com/canale/512/tvr-craiova.png" group-title="Local",TVR Craiova
 https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/chunklist_b4096000.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVR Iași" tvg-logo="https://stvron.com/canale/512/tvr-iasi.png" group-title="Local",TVR Iași
-https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/chunklist_b4096000.m3u8 
+http://82.208.151.107:8888/1.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVR Timișoara" tvg-logo="https://stvron.com/canale/512/tvr-timisoara.png" group-title="Local",TVR Timișoara
 https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/chunklist_b4096000.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVR Tirgu Mures" tvg-logo="https://stvron.com/canale/512/tvr-targu-mures.png" group-title="Local",TVR Tirgu Mures
