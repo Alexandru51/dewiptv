@@ -11,7 +11,7 @@ https://stream.y5.hu/stream/stream_cool/hls1/stream.m3u8
 https://fixhd.tv:8082/fix/1080i/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gem TV Asia" tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/1/13/Gem_TV_logo.png/revision/latest?cb=20210224034451" group-title="General",Gem TV Asia
 http://210.210.155.35/uq2663/h/h19/index.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="K1" tvg-logo="" group-title="General",K1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="K1" tvg-logo="https://www.k1.ua/images/logo.png" group-title="General",K1
 https://edge1.iptv.macc.com.ua/life/k1_3/index.m3u8
 #EXTINF:-1 tvg-id="KanalD(src01).ro" tvg-name="Kanal D RO" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bb/Kanal_D_%282018-.n.v.%29.png" group-title="General",Kanal D RO
 https://stream1.kanald.ro/iphone/live.m3u8
@@ -25,7 +25,7 @@ https://peer.trm.md/static/streaming-playlists/hls/9914e24b-b4bc-47f2-8f9a-1ee34
 http://89.38.8.130:39435/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHK World Japan" tvg-logo="" group-title="General",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTA" tvg-logo="" group-title="General",NTA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/NTA_Ukraine.png" group-title="General",NTA
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prima TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Prima_TV_%25_282021%25_29.png" group-title="General",Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc= 
