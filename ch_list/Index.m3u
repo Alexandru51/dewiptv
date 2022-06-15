@@ -285,6 +285,8 @@ https://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8
 http://82.76.210.127:1935/dibitv/live/playlist.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="H!T Music Channel Hungary" tvg-logo="https://i.imgur.com/sqC2hqV_d.png" group-title="Music",H!T Music Channel Hungary
 http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Inedit TV" tvg-logo="" group-title="Music",Inedit TV
+http://edge8.imcr.ro:1359/live/myStream/chunklist_w2076956883.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kiss TV" tvg-logo="https://wp10-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10090_c_7a82a77ca8267b577206384c9414ab4e.png" group-title="Music",Kiss TV
 http://fms-https1.mediadirect.ro/live3/_definst_/kiss/chunklist_w633790898.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/M2_logo.jpg/600px-M2_logo.jpg" group-title="Music",M2
