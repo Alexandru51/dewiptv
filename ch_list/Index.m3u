@@ -28,7 +28,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/NTA_Ukraine.png" group-title="General",NTA
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prima TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Prima_TV_%25_282021%25_29.png" group-title="General",Prima TV
-https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc= 
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Publika TV" tvg-logo="https://i.ibb.co/Dgy4yTR/Publika-2017.png" group-title="General",Publika TV
 https://livebeta.publika.md/LIVE/P/1500.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rada TV" tvg-logo="" group-title="General",Rada TV
