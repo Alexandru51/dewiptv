@@ -305,6 +305,8 @@ http://www.1music.hu/1music.m3u8
 http://s02.diazol.hu:10192/stream.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muzsika TV" tvg-logo="" group-title="Music",Muzsika TV
 https://stream.y5.hu/stream/stream_muzsikatv/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orizont TV (Moldova)" tvg-logo="" group-title="Music",Orizont TV (Moldova)
+https://live.iforward.tv/hls/orizont.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tezaur TV (Moldova)" tvg-logo="" group-title="Music",Tezaur TV (Moldova)
 http://tezaur.mlbfan.org/tezaur/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tezaur TV" tvg-logo="http://www.tezaurtv.ro/wp-content/uploads/2018/09/Tezaur-TV-online.jpg" group-title="Music",Tezaur TV
