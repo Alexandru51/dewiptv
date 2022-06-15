@@ -45,14 +45,14 @@ https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
 https://stream.y5.hu/stream/stream_rtlp/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sorozat Plus" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/sorozat_plusz_2018_wide.png" group-title="General",Sorozat Plus
 https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVN" tvg-logo="" group-title="General",TVN
-http://51.81.66.195:1935/krtv/tvn_540/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="General",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 2" tvg-logo="https://i.imgur.com/h9Q88CW_d.png" group-title="General",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT Turk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_Türk_logo.svg/512px-TRT_Türk_logo.svg.png" group-title="General",TRT Turk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVN" tvg-logo="" group-title="General",TVN
+http://51.81.66.195:1935/krtv/tvn_540/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVR 1" tvg-logo="https://wp19-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10001_c_0796235930ec9dccdb96fc1dbd0e82ab.png" group-title="General",TVR 1
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/chunklist_b8288000.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVR 2" tvg-logo="https://wp8-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10002_c_80ff113858e8407d4408d0b1baf4a497.png" group-title="General",TVR 2
