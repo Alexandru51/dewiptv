@@ -375,6 +375,8 @@ https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8
 https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PIK Sat" tvg-logo="" group-title="Undefined",PIK Sat
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Privesc.eu (Moldova)" tvg-name="" group-title="Undefined",Privesc.eu (Moldova)
+https://cachestar.privesc.eu/liniar/moldova/chunklist_w1519642103.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="QVC Japan" tvg-logo="" group-title="Undefined",QVC Japan
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shop HQ" tvg-logo="" group-title="Undefined",Shop HQ
