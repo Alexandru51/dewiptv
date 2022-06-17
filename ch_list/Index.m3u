@@ -247,10 +247,10 @@ https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/liv
 https://stream1.profit.ro:1945/profit/livestream/chunklist_w243257193.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rai News 24" tvg-logo="" group-title="News",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Realitatea MD" tvg-logo="" group-title="News",Realitatea MD
-https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus(src01).ro " tvg-name="Realitatea Plus" tvg-logo="" group-title="News",Realitatea Plus
 https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8  
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RLive Moldova" tvg-logo="https://rlive.md/wp-content/uploads/2021/03/logoRlive.png" group-title="News",RLive Moldova
+https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eylül_2020_Logo.svg/512px-TRT_Haber_Eylül_2020_Logo.svg.png" group-title="News",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVP Info" tvg-logo="" group-title="News",TVP Info
