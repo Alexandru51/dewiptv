@@ -273,6 +273,8 @@ https://sub2.neetball.net/live/neet.m3u8
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network Asia (Vietnam)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg" group-title="Kids", Cartoon Network Asia (Vietnam)
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duck TV" tvg-logo="http://gostreamtv.com/wp-content/uploads/channel-logos/duck-tv-logo.png" group-title="Kids",Duck TV
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_Çocuk_logo_%282021%29.svg/512px-TRT_Çocuk_logo_%282021%29.svg.png" group-title="Kids",TRT Çocuk
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atomic TV" tvg-logo="https://www.atomictv.ro/wp-content/uploads/2021/10/Atomic_TV-1024x257.png" group-title="Music",Atomic TV
