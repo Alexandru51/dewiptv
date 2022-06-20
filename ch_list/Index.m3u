@@ -139,6 +139,8 @@ http://46.4.14.12:9999/intermedia1/intermedia1/playlist.m3u8
 http://novapress.ro:1935/live/nova/chunklist_w1766504351.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Plus Suceava" tvg-logo="https://televiziuneaplus.ro/wp-content/uploads/2021/10/cropped-TV-PLUS-REGIONAL-1024x347.jpg" group-title="Local",TV Plus Suceava
 http://85.186.146.34:8080/  
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Plus Suceava (Backup)" tvg-logo="https://televiziuneaplus.ro/wp-content/uploads/2021/10/cropped-TV-PLUS-REGIONAL-1024x347.jpg" group-title="Local",TV Plus Suceava (Backup)
+http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVR Iași" tvg-logo="https://media.tvriasi.ro/uploads/images/logo_site_1358691811.jpg" group-title="Local",TVR Iași
 http://82.208.151.107:8888/1.m3u8  
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVRI DKI Jakarta" tvg-logo="" group-title="Local",TVRI DKI Jakarta
