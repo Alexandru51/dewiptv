@@ -136,7 +136,7 @@ http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Intermedia" tvg-logo="https://www.intermediatv.ro/wp-content/uploads/2022/01/televiziunea-intermedia-logo.png" group-title="Local",Intermedia
 http://46.4.14.12:9999/intermedia1/intermedia1/playlist.m3u8  
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nova TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Nova_TV_Brasov.png/220px-Nova_TV_Brasov.png" group-title="Local",Nova TV
-http://novapress.ro:1935/live/nova/chunklist_w1766504351.m3u8
+http://novapress.ro:2022/live/nova/chunklist_w1770209514.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Plus Suceava" tvg-logo="https://televiziuneaplus.ro/wp-content/uploads/2021/10/cropped-TV-PLUS-REGIONAL-1024x347.jpg" group-title="Local",TV Plus Suceava
 http://85.186.146.34:8080/  
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Plus Suceava (Backup)" tvg-logo="https://televiziuneaplus.ro/wp-content/uploads/2021/10/cropped-TV-PLUS-REGIONAL-1024x347.jpg" group-title="Local",TV Plus Suceava (Backup)
