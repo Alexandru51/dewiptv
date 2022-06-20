@@ -131,7 +131,7 @@ https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A7 TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngq2cBuF88r1Mv66DM4uiWAF5pCEFsaQMXR_qNrIQ=s900-c-k-c0x00ffffff-no-rj" group-title="Local",A7 TV
 http://amsix214.streamkit.tv/edge/_definst_/aseventv_1000/chunklist.m3u8?wowzasessionid=831085941&cn=aseventv 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bucovina TV" tvg-logo="https://stvron.com/canale/512/bucovina-tv.png" group-title="Local",Bucovina TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bucovina TV" tvg-logo="https://tvron.net/static/canale/mari/bucovina-tv.png" group-title="Local",Bucovina TV
 http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8  
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Intermedia" tvg-logo="https://test.stvron.com/canale/512/intermedia-tv.png" group-title="Local",Intermedia
 http://46.4.14.12:9999/intermedia1/intermedia1/playlist.m3u8  
