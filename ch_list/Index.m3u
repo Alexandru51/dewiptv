@@ -53,6 +53,8 @@ https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVN" tvg-logo="" group-title="General",TVN
 http://51.81.66.195:1935/krtv/tvn_540/playlist.m3u8 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVN (Indonesia)" tvg-logo="" group-title="General",TVN (Indonesia)
+http://210.210.155.35/dr9445/h/h20/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVRI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="General",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVRI Nasional" tvg-logo="" group-title="General",TVRI Nasional
@@ -73,6 +75,8 @@ https://edge2.iptv.macc.com.ua/img/ntn_3/index.m3u8
 https://kv-g50-mc05.ollcdn.net/trku-live/20/3589f37743144c813f3a5fc6e4f8eba7/62a2b3b0/ukrainahd/ukrainahd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN Asia (Indonesia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Asia (Indonesia)
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Celestial Movies" tvg-logo="" group-title="Movies",Celestial Movies
+http://210.210.155.35/dr9445/h/h14/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax Asia (Vietnam)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",Cinemax Asia
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FILM%2B_logo_2014_Hungary.png/1200px-FILM%2B_logo_2014_Hungary.png" group-title="Movies",Film +
