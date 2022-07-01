@@ -311,6 +311,8 @@ http://edge8.imcr.ro:1359/live/myStream/chunklist_w2076956883.m3u8
 http://fms-https1.mediadirect.ro/live3/_definst_/kiss/chunklist_w633790898.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/M2_logo.jpg/600px-M2_logo.jpg" group-title="Music",M2
 http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Vietnam" tvg-logo="" group-title="Music",MTV Vietnam
+https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magic TV RO" tvg-logo="" group-title="Music",Magic TV RO
 https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mooz Dance" tvg-logo="https://i.imgur.com/aX70RD2_d.png" group-title="Music",Mooz Dance
