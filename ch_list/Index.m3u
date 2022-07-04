@@ -291,6 +291,8 @@ https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_Çocuk_logo_%282021%29.svg/512px-TRT_Çocuk_logo_%282021%29.svg.png" group-title="Kids",TRT Çocuk
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4fun TV" tvg-logo="" group-title="Music",4fun TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atomic TV" tvg-logo="https://www.atomictv.ro/wp-content/uploads/2021/10/Atomic_TV-1024x257.png" group-title="Music",Atomic TV
 https://atomic.streamnet.ro/atomictv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Balkanika MTV" tvg-logo="" group-title="Music",Balkanika MTV
