@@ -9,7 +9,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 https://stream.y5.hu/stream/stream_cool/hls1/stream.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fix TV" tvg-logo"https://i.imgur.com/nHc7iG1_d.png" group-title="General",Fix TV
 https://fixhd.tv:8082/fix/1080i/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gem TV Asia" tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/1/13/Gem_TV_logo.png/revision/latest?cb=20210224034451" group-title="General",Gem TV Asia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gem TV Asia" tvg-logo="https://i.postimg.cc/rFJtfGD2/GEM-2020.png" group-title="General",Gem TV Asia
 http://210.210.155.35/uq2663/h/h19/index.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="K1" tvg-logo="https://www.k1.ua/images/logo.png" group-title="General",K1
 https://edge1.iptv.macc.com.ua/life/k1_3/index.m3u8
