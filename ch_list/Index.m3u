@@ -83,7 +83,7 @@ https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Asia (Vietnam)" tvg-logo="" group-name="Movies",HBO Asia (Vietnam)
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One TV (Indonesia)" tvg-logo="" group-name="Movies",One TV (Indonesia)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One TV (Indonesia)" tvg-logo="https://i.postimg.cc/wvNtSdwM/9428172-ico.png" group-name="Movies",One TV (Indonesia)
 http://210.210.155.35/uq2663/h/h143/02.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kix TV Asia (Indonesia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="Movies",Kix TV Asia (Indonesia)
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8 
