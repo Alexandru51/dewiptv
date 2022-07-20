@@ -365,6 +365,8 @@ https://stream.iptvservice.eu/hls/balatontv.m3u8
 https://stream.y5.hu/stream/stream_bonum/stream.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Budakalász" tvg-logo="" group-title="Undefined",Budakalász
 https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8  
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Credo TV" tvg-logo="" group-title="Undefined",Credo TV
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Halom TV" tvg-logo="" group-title="Undefined",Halom TV
 http://stream.battanet.hu:8080/hls/livestream1/1_2/index.m3u8 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Komlos TV" tvg-logo="" group-title="Undefined",Komlos TV
